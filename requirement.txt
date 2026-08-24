@@ -1,0 +1,50 @@
+# Jupyter runtime and interactive notebook support
+ipykernel
+ipympl
+ipython
+ipywidgets
+jupyterlab
+notebook
+
+# Core scientific Python and visualization
+cycler
+graphviz
+h5py
+imageio
+joblib
+lxml
+matplotlib
+networkx
+numpy
+pandas
+pillow
+scipy
+seaborn
+six
+sympy
+
+# Classical machine learning and statistics
+ISLP
+l0bnb
+lifelines
+mlxtend
+pygam
+scikit-learn
+statsmodels
+umap-learn
+xgboost
+
+# TensorFlow/Keras notebooks. Keep TensorFlow and TensorFlow Text on the same
+# release family because TensorFlow Text contains version-specific native code.
+keras
+tensorboard
+tensorflow>=2.20,<2.21
+tensorflow-datasets
+tensorflow-text>=2.20,<2.21
+
+# PyTorch notebooks
+pytorch-lightning
+torch
+torchinfo
+torchmetrics
+torchvision
